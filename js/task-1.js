@@ -1,6 +1,8 @@
 const isEnoughCapacity(products, containerSize);
 let totalValue = 0;
 
+// =============Console.log=================
+
 console.log(
   isEnoughCapacity({ apples: 2, grapes: 3, carrots: 1 }, 8)
 ); // true
